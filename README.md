@@ -19,6 +19,19 @@ Project Insights- Week 53 are:
  ▪ Overall revenue is 57M
  ▪ Total interest is 8M
  ▪ Total transaction amount is 46M
- 
+ 📊 Project Insights
+  Total Revenue exceeded ₹55M, with ₹45M from transactions and ₹8M from interest earned
+
+  Week-over-week (WoW) revenue growth was observed at +28.8%, reflecting increased engagement
+
+  Blue and Silver card categories accounted for 93% of total transactions, highlighting product preference
+
+  Male customers contributed ₹31M vs ₹26M by females, showing a notable gender trend
+
+  Top-performing states (TX, NY, and CA) contributed to 68% of overall revenue
+
+  Overall delinquency rate was maintained at 6.06%, while activation rate reached 57.5%
+
+
    
    
