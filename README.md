@@ -10,7 +10,7 @@ Steps performed :
 5. Transformed Data into useful Insights
 
 
- 📊 # Project Insights
+ 📊 Project Insights
  - Total Revenue exceeded ₹55M, with ₹45M from transactions and ₹8M from interest earned
 
  - Week-over-week (WoW) revenue growth was observed at +28.8%, reflecting increased engagement
